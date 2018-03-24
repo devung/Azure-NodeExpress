@@ -40,7 +40,7 @@ How to create and deploy your Node.js Express App into Azure using GitHub.
 
     >npm start
 
-6. Test App: load http://localhost:3000/ in your browser.
+6. Test your Node Express App: load http://localhost:3000/ in your browser.
 7. Add the following key into your **package.json** file
     > **"engines": { "node": "8.9.0" }** -- this is REQUIRED for Azure.
 
