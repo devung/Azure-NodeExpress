@@ -20,7 +20,7 @@ How to create and deploy your Node.js Express App into Azure using GitHub.
 
 ## Using Express Generator
 1. Navigate into the working folder and open your command-line tool.
-2. Use the following command.
+2. Install Express Generator globally by using the following command.
 
     > npm install express-generator -g
 
@@ -47,5 +47,4 @@ How to create and deploy your Node.js Express App into Azure using GitHub.
 8. Commit changes into *GitHub*.
 
 ## Conclusion
-Back into your Azure portal in the Deployment option of your Web App, you should be able to the new version deploy.
- 
+Back into your Azure portal in the Deployment option of your Web App, you should be able to see the new version deploy.
